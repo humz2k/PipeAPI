@@ -150,3 +150,15 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+m51_r-band_128.0s_bin1_220218_090803_hqureshi_seo_2_HDR.fits
+m51_r-band_128.0s_bin1_220218_090532_hqureshi_seo_1_HDR.fits
+m51_r-band_128.0s_bin1_220218_090302_hqureshi_seo_0_HDR.fits
+m51_i-band_128.0s_bin1_220218_081529_hqureshi_seo_2_HDR.fits
+m51_i-band_128.0s_bin1_220218_081259_hqureshi_seo_1_HDR.fits
+m51_i-band_128.0s_bin1_220218_080941_hqureshi_seo_0_HDR.fits
+m51_h-alpha_128.0s_bin1_220218_093520_hqureshi_seo_2_HDR.fits
+m51_h-alpha_128.0s_bin1_220218_093250_hqureshi_seo_1_HDR.fits
+m51_h-alpha_128.0s_bin1_220218_093019_hqureshi_seo_0_HDR.fits
+m51_g-band_128.0s_bin1_220218_084137_hqureshi_seo_2_HDR.fits
+m51_g-band_128.0s_bin1_220218_083907_hqureshi_seo_1_HDR.fits
+m51_g-band_128.0s_bin1_220218_083635_hqureshi_seo_0_HDR.fits
